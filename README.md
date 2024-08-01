@@ -1,6 +1,14 @@
 # ui
 BETTER UI
 
+## Some useful commands while running this project in github ~
+
+```
+npm install -g npm@10.8.2
+npm install -g bun
+bun pm trust
+```
+
 # Inspiration codebase's for this project
 1. tailwindcss(v4): https://github.com/tailwindlabs/tailwindcss.git
 2. Typescript: https://github.com/microsoft/TypeScript.git
