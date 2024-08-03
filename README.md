@@ -12,13 +12,13 @@ git clone https://github.com/react-bootstrap/react-bootstrap bootstrapui && cd b
 git clone https://github.com/mantinedev/mantine mantineui && cd mantineui && rm -rf .git && cd ..
 git clone https://github.com/grommet/grommet grommetui && cd grommetui && rm -rf .git && cd ..
 git clone https://github.com/Semantic-Org/Semantic-UI-React semanticui && cd semanticui && rm -rf .git && cd ..
-# git clone https://github.com/chakra-ui/zag zagui && cd zagui && rm -rf .git && cd ..
-# git clone https://github.com/mdbootstrap/mdb-ui-kit mdbui && cd mdbui && rm -rf .git && cd ..
+git clone https://github.com/chakra-ui/zag zagui && cd zagui && rm -rf .git && cd ..
+git clone https://github.com/mdbootstrap/mdb-ui-kit mdbui && cd mdbui && rm -rf .git && cd ..
 ```
 
-@dx-ui/www
+<!-- @dx-ui/www
 @dx-ui/react-native
-@dx-ui/electron
+@dx-ui/electron -->
 
 ## Components that I will make:
 1. friday
