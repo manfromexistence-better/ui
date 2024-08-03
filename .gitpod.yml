@@ -8,3 +8,9 @@ tasks:
       echo bun install
     command: |
       echo bun run dev
+  - name: git
+    init: |
+      git pull
+      git status
+    command: |
+      echo "git add . && git commit -m "feat: automated commit by manfromexistence" && git push"
