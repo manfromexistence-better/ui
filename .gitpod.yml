@@ -1,0 +1,10 @@
+tasks:
+  - name: ui
+    before: |
+      echo "Hello, Thanks for visiting better/ui codebase!"
+      npm install -g bun
+      cd ../ui
+    init: |
+      echo bun install
+    command: |
+      echo bun run dev
