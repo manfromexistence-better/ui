@@ -5,7 +5,8 @@ tasks:
       npm install -g bun
       cd ../ui
     init: |
-      echo bun install && bun pm trust --all
+      echo bun install
+      # bun pm trust --all
     command: |
       echo bun run dev
   - name: git
