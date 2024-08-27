@@ -39,12 +39,12 @@ git clone https://github.com/mdbootstrap/mdb-ui-kit mdbui && cd mdbui && rm -rf 
 16. config
 17. database
 18. design-pattern
-19. documentaion
+19. documentation
 20. frontend
 21. infrastructure
 22. media
 23. observability
-24. pakcage
+24. package
 25. payment
 26. platform
 27. privacy
@@ -71,6 +71,7 @@ git clone https://github.com/mdbootstrap/mdb-ui-kit mdbui && cd mdbui && rm -rf 
 48. video-player
 49. audio-player
 50. charts
+
 ## Components I will create for shadcn-ui:
 1. autocomplete
 2. floating-action-button
@@ -99,7 +100,7 @@ bun pm trust
 4. postcss: https://github.com/postcss/postcss.git
 1. pacocoursey/next-themes: https://github.com/pacocoursey/next-themes.git
 1. lukeed/clsx: https://github.com/lukeed/clsx.git
-1. dcastil/taiwind-merge: https://github.com/dcastil/tailwind-merge.git
+1. dcastil/tailwind-merge: https://github.com/dcastil/tailwind-merge.git
 1. recharts: https://github.com/recharts/recharts.git
 5. material-foundation: https://github.com/material-foundation/material-color-utilities.git
 6. shadcn-ui/ui: https://github.com/shadcn-ui/ui.git
@@ -110,7 +111,7 @@ bun pm trust
 11. bun: https://github.com/oven-sh/bun.git
 12. NixOs(nixpkgs): https://github.com/NixOS/nixpkgs.git
 
-# Some more stuffs
+# Some more stuff
 * Ant Design Magic: https://ant-design-charts.antgroup.com/en/
 * colinkhacks/zod: https://github.com/colinhacks/zod.git
 * swr: https://github.com/vercel/swr.git
@@ -119,7 +120,7 @@ bun pm trust
 * swift: https://github.com/swiftlang/swift.git
 
 <!-- Too lazy... -->
-# This list is not related to this codebase but still, I am too lazy to put this info in correct repo right now
+# This list is not related to this codebase but still, I am too lazy to put this info in the correct repo right now
 1. TanStack/query: https://github.com/TanStack/query.git
 2. d3: https://github.com/d3/d3.git + Same but specially for React: https://github.com/recharts/recharts.git
 3. airbnb/visx: https://github.com/airbnb/visx.git
@@ -128,5 +129,5 @@ bun pm trust
 6. ant-design-charts: https://github.com/ant-design/ant-design-charts.git
 7. plouc/nivo: https://github.com/plouc/nivo.git
 8. dsherret/ts-morph(I don't know what is this): https://github.com/dsherret/ts-morph.git
-9. gpbl/react-day-pcker: https://github.com/gpbl/react-day-picker.git
+9. gpbl/react-day-picker: https://github.com/gpbl/react-day-picker.git
 10. geist(Just a useless font family): https://github.com/vercel/geist-font.git
